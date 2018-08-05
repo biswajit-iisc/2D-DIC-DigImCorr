@@ -1,2 +1,2 @@
 # 2D-DIC-DigImCorr
-Digital Image Correlation to determine local deformation (2D) surface
+Digital Image Correlation to determine local deformation (2D) of  surface
